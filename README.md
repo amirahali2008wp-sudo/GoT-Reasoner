@@ -15,3 +15,24 @@
 
 ```bash
 pip install openai
+
+
+# GoT-Reasoner: Graph-of-Thought Reasoning Engine
+
+This project is an advanced reasoning framework based on the Graph of Thoughts technique, which enables large language models to solve complex problems through planning and deep reasoning.
+
+## ✨ Features
+
+Full implementation of Graph of Thoughts logic (generation, refinement, and aggregation of thoughts).
+
+Capable of solving logical problems, puzzles, and planning tasks.
+
+Includes an “Intelligent Gatekeeper” to detect when complex reasoning is required.
+
+Extensible and customizable for a variety of problem domains.
+
+## ⚙️ Installation
+
+To run this project, you need the following library:
+```bash
+pip install openai
