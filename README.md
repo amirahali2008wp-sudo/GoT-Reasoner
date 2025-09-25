@@ -15,7 +15,7 @@
 
 ```bash
 pip install openai
-
+```
 
 # GoT-Reasoner: Graph-of-Thought Reasoning Engine
 
